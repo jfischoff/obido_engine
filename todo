@@ -1,0 +1,8 @@
+this file should have things like the scene file in it.
+
+The scene should be initialized with code and data. The code is all the update loop stuff and error handling. 
+
+I also need bezier stuff
+and I need stuff for graphs
+and easy in and out
+and I need stuff for more general animation
